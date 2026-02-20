@@ -6,7 +6,7 @@
 <h2 align="center">AI/ML Intern | Industrial AI | MLOps | Computer Vision</h2>
 
 <p align="center">
-  <a href="mailto:albintombennykl@gmail.com">
+  <a href="https://albintombennykl@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
   <a href="https://www.linkedin.com/in/albin-tom-benny">
@@ -88,6 +88,8 @@ Passionate about building scalable AI systems for real-world industrial challeng
 
 <p align="center">
   ⭐ Always open to collaborating on AI, Industrial Automation, and Intelligent Systems!
+     Gmail: albintombennykl@gmail.com
+     Phno: +918547894095
 </p>
 
 <p align="center">
