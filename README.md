@@ -30,7 +30,7 @@ I work on:
 - 🤖 GenAI + RAG Applications
 - 🧠 Agentic AI & Multi-Agent Architectures
 - 🔁 CI/CD for ML Pipelines
-- 🐳 Dockerized AI Deployments 🧠 Multi-Agent Architectures
+- 🐳 Dockerized AI Deployments 
 
 Passionate about building scalable AI systems for real-world industrial challenges.
 
