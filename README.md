@@ -87,9 +87,11 @@ Passionate about building scalable AI systems for real-world industrial challeng
 ---
 
 <p align="center">
-  ⭐ Always open to collaborating on AI, Industrial Automation, and Intelligent Systems!
-     Gmail: albintombennykl@gmail.com
-     Phno: +918547894095
+  ⭐ <b>Always open to collaborating on AI, Industrial Automation, and Intelligent Systems!</b>
+</p>
+
+<p align="center">
+  📧 <b>Email:</b> albintombennykl@gmail.com &nbsp;&nbsp; | &nbsp;&nbsp; 📱 <b>Phone:</b> +91 85478 94095
 </p>
 
 <p align="center">
